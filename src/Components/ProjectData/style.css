@@ -1,80 +1,21 @@
 /* Element Selectors */
-form,
-#sub-btn {
-    font-size: 30px;
-}
-p,#links {
+
+p {
     font-size: 20px;
     color: darkslategrey;
     font-family: 'Montserrat', sans-serif;
 }
-body {
-    font-family: 'Shadows Into Light', cursive;
-    background-image: url("images/wood.png");
-}
+
 /* Class Selectors */
-.home-pic {
-    background-image: url("images/spotlight.png");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
+
 
 /* Profile pic styling */
-.headshot {
-    vertical-align: middle;
-    border-image: 100px solid white;
-    margin-bottom: 2%;
-    border-radius: 50%;
-}
-.caption {
-    top: 20%;
-    width: 100%;
-}
-/* resize profile pic */
-.resize {
-    width: 500px;
-    height: auto;
-}
-/* resize profile pic */
-.resize {
-    width: 400px;
-    height: auto;
-}
 
-/* resize about paragraph text */
-.about-p {
-    font-size: 30px;
-    font-family: 'Montserrat', sans-serif;
-}
-/* navbar styling */
-.navbar {
-    border-bottom: 2px solid darkslategrey; 
-    font-size: 20px;
-    font-weight: bolder;
-}
 
-.navbar a:hover {
-    background: #ddd;
-    color: black;
-}
 
 /* ID Selectors */
 
 /* project section small header */
 #small-text {
     font-size: 20px;
-}
- /* pictures in projects border */
-#border-width {
-    border-width: 200px;
-}
-
-#nav-bg {
-    font-weight: bold;
-}
-
-#nametag {
-    font-size: 100px;
 }
