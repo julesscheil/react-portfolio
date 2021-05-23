@@ -1,16 +1,16 @@
 import React from 'react';
 import './style.css';
-import ProjectData from '../ProjectData/ProjectData'
-import headshot from './images/headshot2.png'
+import ProjectData from '../ProjectData/ProjectData';
+import Headshot from './headshot2.jpg'
 
-function Main() {
+function Main(props) {
     return (
         <div>
             <div className="container-fluid p-0">
                 <div className="p-5 caption home-pic text-center text-uppercase">
                     <br /><br /><br />
                     <h1 id="nametag" className="text-dark text-center">Jules Scheil</h1>
-                    <img className="headshot resize" src={Image} alt="profilepic" />
+                    <img className="headshot resize" src={Headshot} alt="profilepic" />
                     <br />
                     <a id="sub-btn" className="btn btn-dark btn-lg" href="/Scheil-Juliana-Resume.pdf"
                         target="_blank">resume</a>
