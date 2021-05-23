@@ -3,7 +3,7 @@ import './style.css';
 import ProjectData from '../ProjectData/ProjectData';
 import Headshot from './headshot2.jpg'
 
-function Main(props) {
+function Main() {
     return (
         <div>
             <div className="container-fluid p-0">
