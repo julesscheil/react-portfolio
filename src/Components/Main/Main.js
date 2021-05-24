@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css';
 import ProjectData from '../ProjectData/ProjectData';
 import Headshot from './headshot2.jpg'
-
+import Resume from './Scheil-Juliana-Resume-2.pdf'
 function Main() {
     return (
         <div>
@@ -12,8 +12,7 @@ function Main() {
                     <h1 id="nametag" className="text-dark text-center">Jules Scheil</h1>
                     <img className="headshot resize" src={Headshot} alt="profilepic" />
                     <br />
-                    <a id="sub-btn" className="btn btn-dark btn-lg" href="/Scheil-Juliana-Resume.pdf"
-                        target="_blank">resume</a>
+                    <a id="sub-btn" className="btn btn-dark btn-lg" href={Resume} target="_blank">resume</a>
                     <br />
                     <br />
                     <h1> </h1>
