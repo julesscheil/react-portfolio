@@ -17,8 +17,8 @@ function ProjectData() {
                     <div className="row p-3">
                     <div className="col-6">
                         <div className="border border-dark rounded">
-                            <a href="https://github.com/julesscheil/Project-1" target="_blank">
-                                <img className="card-img-top" src={BakeIt} alt="Card image cap" />
+                            <a href="https://github.com/julesscheil/Project-1" target="_blank" rel="noreferrer">
+                                <img className="card-img-top" src={BakeIt} alt="Bake It Til You Make It Application" />
                             </a>
                             <div className="card-body">
                                 <p className="card-text">Bake it 'Til You Make It <br /> This holiday, find new recipes to treat your loved ones </p> 
@@ -28,8 +28,8 @@ function ProjectData() {
                         </div>
                         <div className="col-6">
                             <div className="border border-dark rounded">
-                                <a href="https://github.com/julesscheil/Employee-Tracker" target="_blank">
-                                    <img className="card-img-top" src={EmployeeTrack} alt="Card image cap" />
+                                <a href="https://github.com/julesscheil/Employee-Tracker" target="_blank" rel="noreferrer">
+                                    <img className="card-img-top" src={EmployeeTrack} alt="Employee Tracker Application" />
                                 </a>
                                 <div className="card-body">
                                     <p className="card-text">Update, Delete, and Add new employees in your database all using Node.js and MySQL </p><a id="links"
@@ -40,8 +40,8 @@ function ProjectData() {
                         </div>
                     <div className="col-6">
                             <div className="border border-dark rounded">
-                                <a href="https://github.com/julesscheil/Note-Taker" target="_blank">
-                                    <img className="card-img-top" src={Notes} alt="Card image cap" />
+                                <a href="https://github.com/julesscheil/Note-Taker" target="_blank" rel="noreferrer">
+                                    <img className="card-img-top" src={Notes} alt="Note Taker Application" />
                                 </a>
                                 <div className="card-body">
                                     <p className="card-text">Tired of handwriting all of your notes? Type them out with ease with this user-friendly application</p><a id="links"
@@ -51,8 +51,8 @@ function ProjectData() {
                         </div>
                         <div className="col-6">
                             <div className="border border-dark rounded">
-                                <a href="https://github.com/julesscheil/Dynamic-ReadMe-Maker" target="_blank">
-                                    <img className="card-img-top" src={ReadMe} alt="Card image cap" />
+                                <a href="https://github.com/julesscheil/Dynamic-ReadMe-Maker" target="_blank" rel="noreferrer">
+                                    <img className="card-img-top" src={ReadMe} alt="Dynamic ReadMe Maker App" />
                                 </a>
                                 <div className="card-body">
                                     <p className="card-text">Create a ReadMe with ease using this dynamic Node.js application</p><a id="links"
@@ -62,8 +62,8 @@ function ProjectData() {
                         </div>
                         <div className="col-6">
                             <div className="border border-dark rounded">
-                                <a href="https://github.com/VHarris113/dungeon-maintenance" target="_blank">
-                                    <img className="card-img-top" src={Dungeons} alt="Card image cap" />
+                                <a href="https://github.com/VHarris113/dungeon-maintenance" target="_blank" rel="noreferrer">
+                                    <img className="card-img-top" src={Dungeons} alt="Character Generator Application" />
                                 </a>
                                 <div className="card-body">
                                     <p className="card-text">Table-top game character generator, log in to see your individual characters</p><a id="links"
@@ -73,8 +73,8 @@ function ProjectData() {
                         </div>
                         <div className="col-6">
                             <div className="border border-dark rounded">
-                                <a href="https://github.com/julesscheil/Online-Offline-Budget-Tracker" target="_blank">
-                                    <img className="card-img-top" src={Budget} alt="Card image cap" />
+                                <a href="https://github.com/julesscheil/Online-Offline-Budget-Tracker" target="_blank" rel="noreferrer">
+                                    <img className="card-img-top" src={Budget} alt="Budget Tracker Application" />
                                 </a>
                                 <div className="card-body">
                                     <p className="card-text">Keep track of you budget and spending on & offline</p><a id="links"

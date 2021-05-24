@@ -12,7 +12,7 @@ function Main() {
                     <h1 id="nametag" className="text-dark text-center">Jules Scheil</h1>
                     <img className="headshot resize" src={Headshot} alt="profilepic" />
                     <br />
-                    <a id="sub-btn" className="btn btn-dark btn-lg" href={Resume} target="_blank">resume</a>
+                    <a id="sub-btn" className="btn btn-dark btn-lg" href={Resume} target="_blank" rel="noreferrer">resume</a>
                     <br />
                     <br />
                     <h1> </h1>

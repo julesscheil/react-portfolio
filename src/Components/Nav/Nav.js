@@ -11,8 +11,8 @@ function Nav() {
                     <a className="nav-item nav-link " href="#aboutme">About Me</a>
                     <a className="nav-item nav-link" href="#projects">Projects</a>
                     <a className="nav-item nav-link" href="#contactme">Contact Me</a>
-                    <a className="nav-item nav-link" href="https://github.com/julesscheil" target="_blank">GitHub</a>
-                    <a className="nav-item nav-link" href="https://www.linkedin.com/in/juliana-scheil" target="_blank">LinkedIn</a>
+                    <a className="nav-item nav-link" href="https://github.com/julesscheil" target="_blank" rel="noreferrer">GitHub</a>
+                    <a className="nav-item nav-link" href="https://www.linkedin.com/in/juliana-scheil" target="_blank" rel="noreferrer">LinkedIn</a>
                 </div>
             </nav>
             </div>
